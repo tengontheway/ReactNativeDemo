@@ -23,3 +23,10 @@
   
 ![网易新闻的简单布局](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/003_1.png)
 
+## 004.NavigatorIOS.index.ios.js
+
+  导航栏跳转
+  
+![导航栏跳转](https://github.com/tengontheway/ReactDemo/blob/master/screenshot/004_1.png)
+
+
