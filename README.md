@@ -29,4 +29,10 @@
   
 ![导航栏跳转](https://github.com/tengontheway/ReactDemo/blob/master/screenshot/004_1.png)
 
+## 005.NavigatorIOS.index.ios.js
+
+  Search智能搜索
+  
+![导航栏跳转](https://github.com/tengontheway/ReactDemo/blob/master/screenshot/005_1.png)
+
 
