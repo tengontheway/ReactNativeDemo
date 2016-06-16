@@ -33,18 +33,24 @@
 
   Search智能搜索
   
-![导航栏跳转](https://github.com/tengontheway/ReactDemo/blob/master/screenshot/005_1.png)
+![Search智能搜索](https://github.com/tengontheway/ReactDemo/blob/master/screenshot/005_1.png)
 
 ## 006.Touchable.index.ios.js
 
   可被点击的效果TouchableHighlight/TouchableOpacity效果
   
-![导航栏跳转](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/006_1.png)
+![可被点击的效果](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/006_1.png)
 
 ## 007.ImagePreview.index.ios.js
 
   图片预览:主要内容有数据传递、lambda函数调用, 图片的使用
   
-![导航栏跳转](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/007_1.png)
+![图片预览](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/007_1.png)
+
+## 008.TabBarIOS.index.ios.js
+
+  TabBarIOS:切换Tab
+  
+![TabBarIOS](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/008_1.png)
 
 
