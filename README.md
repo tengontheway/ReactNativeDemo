@@ -35,4 +35,10 @@
   
 ![导航栏跳转](https://github.com/tengontheway/ReactDemo/blob/master/screenshot/005_1.png)
 
+## 006.Touchable.index.ios.js
+
+  可被点击的效果TouchableHighlight/TouchableOpacity效果
+  
+![导航栏跳转](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/006_1.png)
+
 
