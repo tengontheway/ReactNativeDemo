@@ -59,4 +59,9 @@
   
 ![webview](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/009_1.png)
 
+## 010.SinaOAuth.index.ios.js
+
+  SinaOAuth:使用webview进行第三方登录认证
+  
+![SinaOAuth](https://github.com/tengontheway/ReactDemo/blob/master/screenshot/010_1.png)
 
