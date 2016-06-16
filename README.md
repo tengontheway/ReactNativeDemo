@@ -41,4 +41,10 @@
   
 ![导航栏跳转](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/006_1.png)
 
+## 007.ImagePreview.index.ios.js
+
+  图片预览:主要内容有数据传递、lambda函数调用, 图片的使用
+  
+![导航栏跳转](https://raw.githubusercontent.com/tengontheway/ReactDemo/master/screenshot/007_1.png)
+
 
